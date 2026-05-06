@@ -1,0 +1,26 @@
+{
+  "BTC": {
+    "interval": "15m", 
+    "size": 11,
+    "drop": 0.40,
+    "lookback": 5,
+    "take_profit": 0.50,
+    "stop_loss": 0.50,
+    "min_price": 0.11,
+    "max_price": 0.89,
+    "slippage": 0.025,
+    "max_spread": 0.99
+  },
+  "ETH": {
+    "interval": "15m", 
+    "size": 11,
+    "drop": 0.40,
+    "lookback": 5,
+    "take_profit": 0.50,
+    "stop_loss": 0.50,
+    "min_price": 0.11,
+    "max_price": 0.89,
+    "slippage": 0.025,
+    "max_spread": 0.99
+  }
+}
